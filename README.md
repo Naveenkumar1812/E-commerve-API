@@ -1,0 +1,1 @@
+Built an E-Commerce API for product listings using Spring Boot and MySQL, enabling efficient CRUD operations. The API supports robust data management and scalable integration with front-end applications.
